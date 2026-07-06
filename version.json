@@ -1,0 +1,11 @@
+{
+  "Version": "1.2.0",
+  "ReleaseDate": "2026-07-06",
+  "FilesToUpdate": [
+    "LicenseOffline.Core.dll"
+    "LicenseOffline.Excel.dll",
+    "LicenseOffline.Licensing.dll",
+    "LicenseOffline.Security.dll"
+  ],
+  "ReleaseNotes": "Extended Trial to 60 days. Added 30-day Premium Grace Period. New UDF: GetCellColorHex."
+}
